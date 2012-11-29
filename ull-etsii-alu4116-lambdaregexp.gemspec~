@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Ull::Etsii::Alu4116::Lambdaregexp::VERSION
   s.authors     = ["Ayo91"]
   s.email       = ["ayoze.peraza@gmail.com"]
-  s.homepage    = "https://dl.dropbox.com/u/14539152/LPP/LPPbook/node44.html"
-  s.summary     = %q{--}
-  s.description = %q{Un Motor para las expresiones regulares}
+  s.homepage    = ""
+  s.summary     = %q{TODO: Write a gem summary}
+  s.description = %q{TODO: Write a gem description}
 
   s.rubyforge_project = "ull-etsii-alu4116-lambdaregexp"
 
